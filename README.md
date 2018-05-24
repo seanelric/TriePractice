@@ -1,2 +1,2 @@
 # TriePractice
-Practice the core logic of trie
+Practice the core logic of trie by lua
